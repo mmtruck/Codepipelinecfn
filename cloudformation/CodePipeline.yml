@@ -10,7 +10,7 @@ Parameters:
     Default: mmtruck
   GithubRepo:
     Type: String
-    Default: ECSFarGateCFDemo
+    Default: Codepipelinecfn
   GithubBranch:
     Type: String
     Default: master

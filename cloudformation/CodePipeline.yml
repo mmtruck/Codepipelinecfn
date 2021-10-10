@@ -7,7 +7,7 @@ Parameters:
     Default: dev
   GithubUserName:
     Type: String
-    Default: umegrowcloud
+    Default: mmtruck
   GithubRepo:
     Type: String
     Default: ECSFarGateCFDemo
